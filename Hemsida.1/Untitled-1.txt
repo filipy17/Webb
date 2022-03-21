@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="description" content="En sida om meta taggen">
+        <meta name="author" content="Filil yngerlöv">
+        <meta name="keywords" content="Ktm exc, meta-taggar">
+        <title> Exemple på meta taggar</title>
+        </head>
+ 
+        <body>
+            <h1>Skriv lättbegripliga texter</h1>
+            <p> Texter på webbplatser bör skrivas på ett så enkelt och begripligt språk som möjligt, för att vara<br> effektiva att läsa, och för att kunna förstås av ett stort antal läsare.
+             <h2>Utgå från användarnas behov</h2>
+            <p>Tänk på att användarnas förmåga att läsa och ta till sig text varierar kraftigt. Texterna kan behöva<br> anpassas till målgrupper med särskilda behov, till exempel personer med <strong>fysiska</strong> eller <strong>kognitiva</strong><br> funktionsnedsättningar, personer med annat modersmål än svenska och nationella minoriteter. <br>Det kan ofta vara en god idé att komplettera text med till exempel <em>bilder, filmer och tal.</em></p>
+                <p>För offentliga verksamheter gäller språklagen som säger att språket i offentlig verksamhet ska vara<br> vårdat, enkelt och begripligt. Detta gäller alla språk som används på webbplatsen, inte bara svenska.</p>
+            <h2>Använd punkter i de förkortningar som behövs</h2>
+            <p>Om ni trots allt behöver använda förkortningar, skriv dem med punkter, inte med mellanslag: ”t.ex.”,<br> inte ”t ex”. Då delas de inte när de råkar hamna i slutet av en rad. Förkortningar som inte är självklart<br> begripliga för alla bör alltid förklaras första gången de nämns i en text. Förkortningar kan markeras i<br> html-koden med hjälp av elementet <strong>abbr</strong> och förklaras med attributet <em>title</em>.</p>
+ 
+            <h2>Mätbarhet</h2>
+                
+           <p> Denna punkt kräver manuell granskning och användningstester. Granska gärna texter med stöd av<br> Klarspråkstestet, en webbchecklista för begripliga texter, som finns hos Språkrådet.</p>
+                
+        </body>
+ 
+        </html>
+
